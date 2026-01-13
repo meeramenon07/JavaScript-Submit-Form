@@ -1,0 +1,49 @@
+.form{
+    border: 2px solid black; /* Width, style, and color */
+    padding: 20px;          /* Adds space between the border and content */
+    border-radius: 10px;    /* Optional: for rounded corners */
+  background: black;
+  color: white;
+}
+
+
+input[type="text"] {
+    border: 1px solid black; /* A subtle border */
+    padding: 10px;           /* Space inside the input field */
+    border-radius: 4px;     /* Rounded corners for the input fields */
+  margin-bottom:3px;
+  margin:2px;
+ 
+  
+  
+}
+
+
+input[type="email"] {
+    border: 1px solid black; /* A subtle border */
+    padding: 10px;           /* Space inside the input field */
+    border-radius: 4px;     /* Rounded corners for the input fields */
+  margin-top:2px;
+  
+}
+
+#submit {
+  
+  color: white;
+  margin: 2px;
+  font-size: 25px;
+  border:7px;
+  border-radius:2px;
+  
+  background-color: darkcyan; /* Button background color */
+    color: white;              /* Text color */
+    padding: 10px 20px;        /* Space inside the button */
+    border: none;              /* Remove default border */
+    border-radius: 5px;        /* Rounded corners for the button */
+    cursor: pointer;           /* 
+}
+
+
+
+
+
